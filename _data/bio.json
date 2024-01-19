@@ -1,93 +1,137 @@
 {
-  "basics": {
-    "name": "Kyson Calibuso",
-    "label": "Shidler Undergraduate",
-    "picture": "https://kysoncal.github.io/img/kyson-calibuso.JPG",
-    "email": "kysoncal@hawaii.edu",
-    "phone": "808-866-8628",
-    "website": "https://kysoncal.github.io",
-    "summary": "I am studying for a B.B.A. in Management Information and Accounting at the University of Hawaii's Shidler College of Business. I expect to graduate in Fall, 2025.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
-    "profiles": [
-      { "network": "github", "username": "kysoncal", "url": "http://github.com/kysoncal" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/kysoncal" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/kysoncali_" },
-    ]
-  },
-  "interests": [
-    { "name": "KPOP" },
-    { "name": "Product Marketing" },
-    { "name": "Graphic Design" },
-    { "name": "Cooking" },
-    { "name": "Korean" }
-  ],
-  "skills": [
-    {
-      "name": "Languages",
-      "keywords": [ "English", "Basic Korean", "HTML/CSS", "UNIX", "VS Code" ]
-    },
-    {
-      "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Git/GitHUb", "Microsoft Office", "Final Cut Pro X", "Canva", "Adobe Photoshop", "Adobe InDesign", "Adobe Lightroom" ]
-    }
-  ],
-  "education": [
-    {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Management Information Systems and Accounting (expected Fall, 2025)",
-      "studyType": "B.B.A",
-      "startDate": "2021",
-      "endDate": "Present",
-      "courses": [
+   "basics":{
+      "name":"Kyson Calibuso",
+      "label":"Shidler Undergraduate",
+      "picture":"https://kysoncal.github.io/img/kyson-calibuso.JPG",
+      "email":"kysoncal@hawaii.edu",
+      "phone":"808-866-8628",
+      "website":"https://kysoncal.github.io",
+      "summary":"I am studying for a B.B.A. in Management Information and Accounting at the University of Hawaii's Shidler College of Business. I expect to graduate in Fall, 2025.",
+      "location":{
+         "address":"",
+         "postalCode":"96822",
+         "city":"Honolulu",
+         "countryCode":"USA",
+         "region":"Hawaii"
+      },
+      "profiles":[
+         {
+            "network":"github",
+            "username":"kysoncal",
+            "url":"http://github.com/kysoncal"
+         },
+         {
+            "network":"linkedin",
+            "username":"mollymaluhia",
+            "url":"http://linkedin.com/in/kysoncal"
+         },
+         {
+            "network":"instagram",
+            "username":"molly",
+            "url":"http://instagram.com/kysoncali_"
+         }
       ]
-    }
-  ],
-  "work": [
-    {
-      "company": "University of Hawaii at Manoa Campus Services",
-      "position": "Marketing Assistant",
-      "website": "",
-      "startDate": "2023-02-14",
-      "endDate": "Present",
-      "highlights": [
-        "Supports marketing department by producing 3-4 designs and campaigns daily using Adobe, Microsoft, & and Google applications",
-        "Works closely with campus managers to develop memorable marketing campaigns for an audience of over 20,000 people",
-        "Capture and edit photos of marketing campaigns to publish on multiple websites as well as printed materials to distribute to our audience",
-        "Responsible for meeting deadlines and maintaining excellent communication with supervisors, customers, and marketing team to ensure a smooth production flow",
-        "Manage over 20 social media accounts while compiling monthly reports for administrative use",
-        "Required to have a keen eye on student interests and campus marketing trends, as well as global trends to maintain at least an 85% engagement level with our audience",
-      ]
-    },
-    {
-      "company": "University of Hawaii at Manoa Department of Computer Science",
-      "position": "ICS 101 Lab Assistant",
-      "startDate": "2023-08-17",
-      "endDate": "Present",
-      "summary": "",
-      "highlights": [
-        "Assists the professor and teaching assistant team in the planning and preparation of over 16 weekly lectures and labs",
-        "Aid 270+ ICS 101 students in lectures and labs to have them fully understand the concepts taught, and apply them to the real world",
-        "Lead 16 weekly office hours to ensure students gain a better understanding of the given assignments while establishing high submission rates.",
-      ]
-    }
-  ],
-  "awards": [
-    {
-      "title": "Dean's List",
-      "date": "2022-Present",
-      "awarder": "University of Hawaii at Manoa",
-      "summary": "Undergraduate students are awarded the Dean’s List distinction if they: (1) earn a semester grade point average of 3.5 or higher based on 12 credits or more taken for a grade (C/NC courses do not count), and (2) do not receive grades of W, I, F, or NC for that semester."
-    },
-    {
-      "title": "First place - Health Career Display",
-      "date": "2020",
-      "awarder": "2020 HOSA International Leadership Conference",
-      "summary": "The 2020 HOSA International Leadership Conference: Health Career Display event is a competition that provides members with the opportunity to research a career of interest, create a display board of associated career materials, and improve their presentation skills as they communicate the career information to others."
-    }
-  ],
-  "references": [
-    {
-      "name": "Available upon request"
-    }
-  ]
+   },
+   "interests":[
+      {
+         "name":"KPOP"
+      },
+      {
+         "name":"Product Marketing"
+      },
+      {
+         "name":"Graphic Design"
+      },
+      {
+         "name":"Cooking"
+      },
+      {
+         "name":"Korean"
+      }
+   ],
+   "skills":[
+      {
+         "name":"Languages",
+         "keywords":[
+            "English",
+            "Basic Korean",
+            "HTML/CSS",
+            "UNIX",
+            "VS Code"
+         ]
+      },
+      {
+         "name":"Toolsets/OS",
+         "keywords":[
+            "MacOS",
+            "Git/GitHUb",
+            "Microsoft Office",
+            "Final Cut Pro X",
+            "Canva",
+            "Adobe Photoshop",
+            "Adobe InDesign",
+            "Adobe Lightroom"
+         ]
+      }
+   ],
+   "education":[
+      {
+         "institution":"University of Hawaii, Honolulu, HI",
+         "area":"Management Information Systems and Accounting (expected Fall, 2025)",
+         "studyType":"B.B.A",
+         "startDate":"2021",
+         "endDate":"Present",
+         "courses":[
+            
+         ]
+      }
+   ],
+   "work":[
+      {
+         "company":"University of Hawaii at Manoa Campus Services",
+         "position":"Marketing Assistant",
+         "website":"",
+         "startDate":"2023-02-14",
+         "endDate":"Present",
+         "highlights":[
+            "Supports marketing department by producing 3-4 designs and campaigns daily using Adobe, Microsoft, & and Google applications",
+            "Works closely with campus managers to develop memorable marketing campaigns for an audience of over 20,000 people",
+            "Capture and edit photos of marketing campaigns to publish on multiple websites as well as printed materials to distribute to our audience",
+            "Responsible for meeting deadlines and maintaining excellent communication with supervisors, customers, and marketing team to ensure a smooth production flow",
+            "Manage over 20 social media accounts while compiling monthly reports for administrative use",
+            "Required to have a keen eye on student interests and campus marketing trends, as well as global trends to maintain at least an 85% engagement level with our audience"
+         ]
+      },
+      {
+         "company":"University of Hawaii at Manoa Department of Computer Science",
+         "position":"ICS 101 Lab Assistant",
+         "startDate":"2023-08-17",
+         "endDate":"Present",
+         "summary":"",
+         "highlights":[
+            "Assists the professor and teaching assistant team in the planning and preparation of over 16 weekly lectures and labs",
+            "Aid 270+ ICS 101 students in lectures and labs to have them fully understand the concepts taught, and apply them to the real world",
+            "Lead 16 weekly office hours to ensure students gain a better understanding of the given assignments while establishing high submission rates."
+         ]
+      }
+   ],
+   "awards":[
+      {
+         "title":"Dean's List",
+         "date":"2022-Present",
+         "awarder":"University of Hawaii at Manoa",
+         "summary":"Undergraduate students are awarded the Dean’s List distinction if they: (1) earn a semester grade point average of 3.5 or higher based on 12 credits or more taken for a grade (C/NC courses do not count), and (2) do not receive grades of W, I, F, or NC for that semester."
+      },
+      {
+         "title":"First place - Health Career Display",
+         "date":"2020",
+         "awarder":"2020 HOSA International Leadership Conference",
+         "summary":"The 2020 HOSA International Leadership Conference: Health Career Display event is a competition that provides members with the opportunity to research a career of interest, create a display board of associated career materials, and improve their presentation skills as they communicate the career information to others."
+      }
+   ],
+   "references":[
+      {
+         "name":"Available upon request"
+      }
+   ]
 }
