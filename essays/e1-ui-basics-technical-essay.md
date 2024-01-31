@@ -8,7 +8,7 @@ published: true
 labels:
   - MIS
   - WOD
-  - BrowserHistory 1-3
+  - BrowserHistory
 ---
 
 ## E1: UI Basics Technical Essay
