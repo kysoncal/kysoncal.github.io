@@ -13,7 +13,7 @@ labels:
 
 ## Invoice 1 WOD
 
-The last WOD I completed was the Invoice 1 WOD. For this WOD, we had to dynamically create an invoice receipt with information concerning a variety of products including their prices. We utlizied expressions, variables, commenting, and Javascript. If you want to read more instructions about this WOD, click [here!] (https://dport96.github.io/ITM352/morea/060.expressions-operators/experience-preparing-for-WOD.html)
+The last WOD I completed was the Invoice 1 WOD. For this WOD, we had to dynamically create an invoice receipt with information concerning a variety of products including their prices. We utlizied expressions, variables, commenting, and Javascript. If you want to read more instructions about this WOD, click [here! (https://dport96.github.io/ITM352/morea/060.expressions-operators/experience-preparing-for-WOD.html)] 
 
 My experience performing the WOD was quite steady. Everything pretty much worked well for me except changing the "numbers" for the different variables. I do remember using RegEx, which expedited my WOD time by changing the "numbers" quickly. I also stumbled on the placement of the script tags but after practice, it came out to be much easier.
 
