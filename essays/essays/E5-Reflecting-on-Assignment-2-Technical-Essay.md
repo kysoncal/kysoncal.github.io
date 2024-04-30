@@ -11,7 +11,7 @@ labels:
 ---
 
 ## Provide a brief introduction to the assignment along with a link to this page for further details
-With Assignment 2, we were required to build upon our Assignment 2 by enforcing a login and registration page for users and new users to utilize. We were taught how to implement various functionalities and codes to make sure that all of our HTML pages are seamlessly integrated with our JavaScript code. For further details, please click here!
+With Assignment 2, we were required to build upon our Assignment 2 by enforcing a login and registration page for users and new users to utilize. We were taught how to implement various functionalities and codes to make sure that all of our HTML pages are seamlessly integrated with our JavaScript code. For further details, please click [here!](https://dport96.github.io/ITM352/morea/150.Assignment2/experience-Assignment2.html)
 
 ## What did you learn from this assignment?
 I learned so much from this assignment. I learned to transfer data across multiple pages and also learned how to implement a login and registration form with a process that validates whether or not it matches the criteria I had put out. I also learned the importance of time management because staying up all night figuring things out was not exactly the greatest idea.
