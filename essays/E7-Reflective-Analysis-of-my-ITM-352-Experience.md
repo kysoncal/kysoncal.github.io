@@ -15,19 +15,19 @@ labels:
 # 1.1 Building Foundational Programming Skills in IT
 The course began with an introduction to HTML, progressing to more complex topics like JavaScript, encompassing variables, functions, and data structures. Advanced features such as file I/O and sessions were incorporated into our major assignments. This structured learning path culminated in the creation of a functional, albeit imperfect, e-commerce website where users can manage purchases and view invoices.
 
-# 1.2 Recognizing the Importance of Programming in MIS
+### 1.2 Recognizing the Importance of Programming in MIS
 In MIS roles, understanding the interplay between various systems and technologies is crucial. The assignments enhanced my grasp on how essential programming skills are for tasks like system integration, debugging, and infrastructure development. Particularly, Assignment 2 allowed me to experience firsthand the integration challenges and solutions in creating seamless user interactions.
 
-# 1.3 Hands-On Software Application Development
+### 1.3 Hands-On Software Application Development
 Assignments 1 and 2 provided practical experience in developing functional e-commerce platforms. Starting from a basic template, I learned to build and customize complex functionalities. The process highlighted the challenges and intricacies of software architecture and user interface design, particularly in ensuring smooth operation and user experience.
 
-# 1.4 Solving Real-World MIS Problems
+### 1.4 Solving Real-World MIS Problems
 Addressing MIS issues often involves unique solutions tailored to specific scenarios, as evident in the diverse approaches my peers and I took in our assignments. Learning to comment and meticulously review code was a valuable strategy in troubleshooting and refining our projects.
 
-# 1.5 Learning Project Management and Collaboration
+### 1.5 Learning Project Management and Collaboration
 Collaboration was essential in navigating the complexities of programming assignments. Peer support played a critical role in overcoming challenges, particularly in understanding and utilizing tools like Google Cloud. The experience underscored the importance of teamwork and communication in tech environments.
 
-# 1.6 Boosting Confidence in Problem Solving
+### 1.6 Boosting Confidence in Problem Solving
 The course was a rigorous exercise in enhancing my analytical and problem-solving capabilities. As the semester progressed, so did my confidence, particularly through collaborative lab sessions and the iterative process of testing and refining code.
 
 ## Course Elements and Personal Engagement
