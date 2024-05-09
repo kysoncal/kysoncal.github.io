@@ -12,7 +12,7 @@ labels:
 ---
 
 ## Course Objectives Review
-# 1.1 Building Foundational Programming Skills in IT
+### 1.1 Building Foundational Programming Skills in IT
 The course began with an introduction to HTML, progressing to more complex topics like JavaScript, encompassing variables, functions, and data structures. Advanced features such as file I/O and sessions were incorporated into our major assignments. This structured learning path culminated in the creation of a functional, albeit imperfect, e-commerce website where users can manage purchases and view invoices.
 
 ### 1.2 Recognizing the Importance of Programming in MIS
